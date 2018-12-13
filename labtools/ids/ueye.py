@@ -58,7 +58,6 @@ Close the camera when you are finished:
 >>> c.close()
 """
 
-
 from ctypes import *
 from labtools.log import create_logger
 import logging as logger
